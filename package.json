@@ -1,5 +1,6 @@
 {
   "name": "sistema-pdv",
+  "title": "Controle de Vendas - Santo Drinks",
   "version": "0.1.0",
   "private": true,
   "scripts": {
